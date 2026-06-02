@@ -1,4 +1,4 @@
-# Kerala Road Accident Analysis
+# Kerala Road Accident Analysis EDA
 
 ## Project Overview
 
